@@ -59,7 +59,6 @@
    */
 
 :root {
-
   --lwt-frame: var(--uc-base-colour) !important;
   --lwt-accent-color: var(--lwt-frame) !important;
   --lwt-text-color: var(--uc-inverted-colour) !important;
@@ -93,16 +92,37 @@
   --urlbar-box-hover-bgcolor: var(--uc-highlight-colour) !important;
   --urlbar-box-hover-text-color: var(--uc-inverted-colour) !important;
   --urlbar-box-focus-bgcolor: var(--uc-highlight-colour) !important;
-
 }
 
-
-
-.identity-color-blue      { --identity-tab-color: var(--uc-identity-colour-blue)      !important; --identity-icon-color: var(--uc-identity-colour-blue)      !important;  }
-.identity-color-turquoise { --identity-tab-color: var(--uc-identity-colour-turquoise) !important; --identity-icon-color: var(--uc-identity-colour-turquoise) !important; }
-.identity-color-green     { --identity-tab-color: var(--uc-identity-colour-green)     !important; --identity-icon-color: var(--uc-identity-colour-green)     !important; }
-.identity-color-yellow    { --identity-tab-color: var(--uc-identity-colour-yellow)    !important; --identity-icon-color: var(--uc-identity-colour-yellow)    !important; }
-.identity-color-orange    { --identity-tab-color: var(--uc-identity-colour-orange)    !important; --identity-icon-color: var(--uc-identity-colour-orange)    !important; }
-.identity-color-red       { --identity-tab-color: var(--uc-identity-colour-red)       !important; --identity-icon-color: var(--uc-identity-colour-red)       !important; }
-.identity-color-pink      { --identity-tab-color: var(--uc-identity-colour-pink)      !important; --identity-icon-color: var(--uc-identity-colour-pink)      !important; }
-.identity-color-purple    { --identity-tab-color: var(--uc-identity-colour-purple)    !important; --identity-icon-color: var(--uc-identity-colour-purple)    !important; }
+.identity-color-blue {
+  --identity-tab-color: var(--uc-identity-colour-blue) !important;
+  --identity-icon-color: var(--uc-identity-colour-blue) !important;
+}
+.identity-color-turquoise {
+  --identity-tab-color: var(--uc-identity-colour-turquoise) !important;
+  --identity-icon-color: var(--uc-identity-colour-turquoise) !important;
+}
+.identity-color-green {
+  --identity-tab-color: var(--uc-identity-colour-green) !important;
+  --identity-icon-color: var(--uc-identity-colour-green) !important;
+}
+.identity-color-yellow {
+  --identity-tab-color: var(--uc-identity-colour-yellow) !important;
+  --identity-icon-color: var(--uc-identity-colour-yellow) !important;
+}
+.identity-color-orange {
+  --identity-tab-color: var(--uc-identity-colour-orange) !important;
+  --identity-icon-color: var(--uc-identity-colour-orange) !important;
+}
+.identity-color-red {
+  --identity-tab-color: var(--uc-identity-colour-red) !important;
+  --identity-icon-color: var(--uc-identity-colour-red) !important;
+}
+.identity-color-pink {
+  --identity-tab-color: var(--uc-identity-colour-pink) !important;
+  --identity-icon-color: var(--uc-identity-colour-pink) !important;
+}
+.identity-color-purple {
+  --identity-tab-color: var(--uc-identity-colour-purple) !important;
+  --identity-icon-color: var(--uc-identity-colour-purple) !important;
+}
